@@ -1,7 +1,7 @@
 # Heapsort In Various language
 
-Goal is compare the length and complexity of the same code in many different languages.
-Now we can see which programming language is best, in most scietific way ever! 😅 
+Goal is compare the length and complexity of the same pseudocode in many different languages.
+Now we can see which programming language is best, in most scientific way ever! 😅 
 
 Conventional, functional or any other types of programmig language can be used.
 
