@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 start=`date +%s`
 
 printf "\nRunning the C version : \n"
@@ -18,4 +18,4 @@ runtime=$((end-start))
 
 printf "\n"
 
-echo "Script ran in $runtime seconds"
+echo "Script ran in $runtime second(s)"

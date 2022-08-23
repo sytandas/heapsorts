@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 def heapify(arr, n, i):
 	
 	# largest among root and child	
